@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja bem-vindo!👋
 
 Sou apaixonado por tecnologia, programação e por criar soluções que resolvem problemas reais. Neste perfil você encontrará projetos que desenvolvo para estudo, prática e também aplicações que buscam gerar impacto positivo.
 
